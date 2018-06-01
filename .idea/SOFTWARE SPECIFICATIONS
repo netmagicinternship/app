@@ -1,0 +1,26 @@
+_______________________________________________________________________________________________________________________
+-----------------------------------------------------------------------------------------------------------------------
+This software has the following specifications:
+1. It is responsible for keeping a track of all the teachers and the students involved within a particular college or
+   university and keeping their schedules updated.pyth
+2. The teachers would be keeping their schedules updated so that the students receive any changes or modifications
+   when a professor or a teacher alters either the place or the time of the lecture.
+3. Face to Face announcements in the lecture halls would be reduced and dependencies on verbal communication would
+   significantly be avoided.
+4. The students will have to send invites to their teachers or professors by creating requests and their respective
+   course teachers or professors will accept their request and confirm the invite.
+5. The students after being confirmed and accepted, will be able to see the date, place and time of the next lecture
+   the teacher or the professor hosts. Any changes made will also be reflected to the students via personal email as
+   well.
+6. It is not possible for a student to make any changes to the time, place or the name of the lecture. A student can
+   only see where and when the lecture is schedules so that the student is updated on the time it needs to be present
+   on without confusion.
+7. The teachers and their students will have their respective accounts and will need to login by their specific
+   passwords that they individually set.
+8. The teachers or the professors can only add lectures on the calendar to that they which are individually held
+   responsible, however, they can add multiple lectures as well. Any clashes or collisions with lecture timings need to
+   be dealt with.
+9. This will all happen through a website, a website where students are expected to view on a periodic basis so that
+   they are updated with their schedules and so that they fit their timetables respectively.
+-----------------------------------------------------------------------------------------------------------------------
+_______________________________________________________________________________________________________________________
